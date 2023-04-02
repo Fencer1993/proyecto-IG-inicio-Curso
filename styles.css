@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    display:block;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+div {
+  
+    background-color: white;
+}
+
+.post {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    min-width: 300px;
+    margin-top: 15px;
+
+}
+
+.body-header {
+    display: flex;
+    justify-content: space-between;  
+    height: 50px; 
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   
+}
+
+.body-header-tittle {
+    margin: 6px 0px 2px 3px;
+}
+
+h1 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: bold;
+}
+h3 {
+    font-size: 14px;
+    margin: 0;
+    font-weight: normal;
+}
+
+.body-header-icon {
+    font-size: xx-large;
+    margin-top: 5px;
+}
+
+.body-header-buttons {
+    font-size: x-large;
+   margin-top: 10px;
+   margin-right: 10px;
+
+}
+
+.body-header-both {
+    display: flex;
+    align-content: flex-start;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    
+}
+
+
+img {
+    width: 100%;
+    min-height: 400px;
+  }
+
+  .body-feedback {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+.body-icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    font-size: x-large;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+  .body-description {
+    padding: 0px 15px 5px 15px;
+    display: flex;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+  }
